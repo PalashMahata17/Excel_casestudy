@@ -75,6 +75,3 @@ Based on the data, cutting medication costs will not solve the financial issue. 
 
 ---
 
-## 📬 Contact
-If you have questions about this analysis or my approach to data cleaning, feel free to reach out!
-[Your LinkedIn Profile Link]
